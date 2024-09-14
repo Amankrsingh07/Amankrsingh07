@@ -71,6 +71,3 @@
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 </p>
-
-
-[![Aman Kumar Singh activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amankrsingh07&theme=github-compact)](https://github.com/Amankrsingh07/github-readme-activity-graph)
