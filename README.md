@@ -1,8 +1,6 @@
 <img src="lkbn.png"> 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Aman+Kumar+Singh</b></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
-
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Amankrsingh07.Amankrsingh07" />
 
 <h1 align="center">
