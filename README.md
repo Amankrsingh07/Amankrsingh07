@@ -53,8 +53,8 @@
 
 <br/>
 <br/>
-<a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrinceSinghhub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Amankrsingh07/github-readme-stats"><img alt="Aman Kumar Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amankrsingh07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Amankrsingh07/github-readme-stats"><img alt="Aman Kumar Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankrsingh07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -68,8 +68,8 @@
 
 ## 📈 Graph
 <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/Amankrsingh07/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
-[![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amankrsingh07&theme=github-compact)](https://github.com/Amankrsingh07/github-readme-activity-graph)
+[![Aman Kumar Singh activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amankrsingh07&theme=github-compact)](https://github.com/Amankrsingh07/github-readme-activity-graph)
