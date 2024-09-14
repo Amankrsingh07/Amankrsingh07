@@ -27,9 +27,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
- 
 <h2 align="center">⚒️ My Skills ⚒️</h2>
 <br/>
 <div align="center">
@@ -37,32 +34,20 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <br>
 </div>
-
 <br/>
 <hr/>
-
-
-<hr/>
-
 <br/><br/>
-
 <hr/>
-
 <br/>
 </div>
-
 <br/>
 <br/>
 <a href="https://github.com/Amankrsingh07/github-readme-stats"><img alt="Aman Kumar Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amankrsingh07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Amankrsingh07/github-readme-stats"><img alt="Aman Kumar Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankrsingh07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 <br/>
-
-
-
 <br/>
 <br/>
 
