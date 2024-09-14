@@ -68,7 +68,8 @@
 
 ## 📈 Graph
 <p align="center">
-   <img src="https://github.com/Amankrsingh07/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
 </p>
 
 
